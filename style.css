@@ -1,8 +1,19 @@
 /General Styling/
 
+#logo {
+    text-align: center;
+    margin: 0;
+
+}
+
 p {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Alegreya', sans-serif;
     line-height: 1.5;
-    color: aqua;
+    color: black;
     margin: 0;
 }
+
+img {
+    max-width: 100%
+}
+

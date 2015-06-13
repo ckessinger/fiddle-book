@@ -1,8 +1,20 @@
 /General Styling/
 
 p {
+title {
     font-family: Helvetica, sans-serif;
     line-height: 1.5;
     color: aqua;
     margin: 0;
+}
+
+body {
+         background-color: black;
+}
+h1 {
+  font-size: 5.625rem; /* 90px/16px  */
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 1.3;
 }

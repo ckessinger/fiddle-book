@@ -1,11 +1,8 @@
 /General Styling/
 
-#logo {
-    text-align: center;
-    text-decoration: none;
-    font-weight: 900;
-    margin: 0;
 
+body {
+    background-color: blueviolet;
 }
 
 a {
@@ -17,10 +14,27 @@ p {
     line-height: 1.5;
     color: black;
     margin: 0;
-}
 
+}
 img {
     max-width: 100%;
+}
+
+li {
+    float: right;
+    margin: 20px;
+    display: inline-block;
+}
+
+
+
+#logo {
+    background-color: green;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0;
+
 }
 
 /Header Styling/
@@ -30,6 +44,10 @@ header {
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     width: 100%;
+
+}
+
+div {
 
 }
 

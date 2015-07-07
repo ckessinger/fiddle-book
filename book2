@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>THE COMPLETE FIDDLE TUNES I EITHER DID OR DID NOT LEARN AT THE TRACTOR TAVERN</title>
+        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <audio></audio>
+    <body>
+        <header>
+            <a href="index.html" id="logo">
+                <h1>The Complete Fiddle Tunes I either did or did not learn at the Tractor Tavern</h1>
+                <h2>by Gene Silberberg</h2>
+            </a>
+        </header>
+        <div id="wrapper">
+            <section>
+                <ul id="gallery">
+                    <li>
+
+                        <a href="20150703172943897.pdf">
+                        <img src="20150703172943897.pdf">
+                        <p>"Good Night Waltz"</p>
+                    </li>
+                        <li>
+                        <a href="20150703173110201.pdf">
+                        <img src="20150703173110201.pdf">
+                        <p>"Silver Bell", "Silver Lake Blues" and "The Skye Boat Song"</p>
+                    </li>
+                    <li>
+                        <a href="20150703173123020.pdf">
+                        <img src="20150703173123020.pdf">
+                        <p>"Opera Reel" and "Ostinelli's Reel"</p>
+                    </li>
+                    <li>
+                        <a href="20150703173147002.pdf">
+                        <img src="20150703173147002.pdf">
+                        <p>"Lumberjack", :Maggie Brown's Favorite"</p>
+                    </li>
+                    <li>
+                        <a href="20150703173207661.pdf">
+                        <img src="20150703173207661.pdf">
+                        <p>"Cluck Ol' Hen", "Coker Creek" and "Colored Aristocracy"</p>
+                    </li>
+                    <li>
+                        <a href="20150703173218061.pdf">
+                        <img src="20150703173218061.pdf">
+                        <p>"Clinch Mountain Blues" and "Cold Winter Night"</p>
+git 
+                    </li>
+                </ul>
+            </section>
+
+        <footer>
+            <p>&copy; 2007 Gene Silberberg</p>
+        </footer>
+    </body>
+</html>

@@ -34,7 +34,7 @@
             <form>
                 <div class="row">
                     <div class="large-12 columns">
-                        <label>Name
+                        <label id="hl">Name
                             <input type="text" placeholder="please enter your name" />
                         </label>
 
@@ -42,7 +42,7 @@
                 </div>
                 <div class="row">
                     <div class="large-12 columns">
-                        <label>Email Address
+                        <label id="hl">Email Address
                             <input type="text" placeholder="please enter your email address" />
                         </label>
 
@@ -50,7 +50,7 @@
                 </div>
                 <div class="row">
                     <div class="columns">
-                        <label>Phone Number
+                        <label id="hl">Phone Number
                             <input type="text" placeholder="phone number" />
                         </label>
 
@@ -61,5 +61,11 @@
         <footer>
             <p>&copy; 2007 Gene Silberberg</p>
         </footer>
+        <script src="js/vendor/jquery.js"></script>
+        <script src="js/foundation.min.js"></script>
+        <script src="js/foundation/foundation.clearing.js"></script>
+        <script>
+          $(document).foundation();
+        </script>
     </body>
 </html>

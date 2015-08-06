@@ -19,10 +19,19 @@ hl {
 
 }
 
+/*Media Queries */
+
+@media (max-width:882px){
+
+}
+
+@media (max-width:767px){
+
+}
 
 
-/*contact form
-**********************/
+
+/*contact form */
 
 input.entryField {
     padding: 22px 12px;
